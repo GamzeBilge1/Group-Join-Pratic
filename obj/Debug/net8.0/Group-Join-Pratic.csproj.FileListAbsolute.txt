@@ -1,0 +1,15 @@
+C:\Users\Gamze\source\repos\Group-Join-Pratic\Group-Join-Pratic\bin\Debug\net8.0\Group-Join-Pratic.exe
+C:\Users\Gamze\source\repos\Group-Join-Pratic\Group-Join-Pratic\bin\Debug\net8.0\Group-Join-Pratic.deps.json
+C:\Users\Gamze\source\repos\Group-Join-Pratic\Group-Join-Pratic\bin\Debug\net8.0\Group-Join-Pratic.runtimeconfig.json
+C:\Users\Gamze\source\repos\Group-Join-Pratic\Group-Join-Pratic\bin\Debug\net8.0\Group-Join-Pratic.dll
+C:\Users\Gamze\source\repos\Group-Join-Pratic\Group-Join-Pratic\bin\Debug\net8.0\Group-Join-Pratic.pdb
+C:\Users\Gamze\source\repos\Group-Join-Pratic\Group-Join-Pratic\obj\Debug\net8.0\Group-Join-Pratic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamze\source\repos\Group-Join-Pratic\Group-Join-Pratic\obj\Debug\net8.0\Group-Join-Pratic.AssemblyInfoInputs.cache
+C:\Users\Gamze\source\repos\Group-Join-Pratic\Group-Join-Pratic\obj\Debug\net8.0\Group-Join-Pratic.AssemblyInfo.cs
+C:\Users\Gamze\source\repos\Group-Join-Pratic\Group-Join-Pratic\obj\Debug\net8.0\Group-Join-Pratic.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\Group-Join-Pratic\Group-Join-Pratic\obj\Debug\net8.0\Group-Join-Pratic.sourcelink.json
+C:\Users\Gamze\source\repos\Group-Join-Pratic\Group-Join-Pratic\obj\Debug\net8.0\Group-Join-Pratic.dll
+C:\Users\Gamze\source\repos\Group-Join-Pratic\Group-Join-Pratic\obj\Debug\net8.0\refint\Group-Join-Pratic.dll
+C:\Users\Gamze\source\repos\Group-Join-Pratic\Group-Join-Pratic\obj\Debug\net8.0\Group-Join-Pratic.pdb
+C:\Users\Gamze\source\repos\Group-Join-Pratic\Group-Join-Pratic\obj\Debug\net8.0\Group-Join-Pratic.genruntimeconfig.cache
+C:\Users\Gamze\source\repos\Group-Join-Pratic\Group-Join-Pratic\obj\Debug\net8.0\ref\Group-Join-Pratic.dll
